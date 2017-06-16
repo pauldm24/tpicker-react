@@ -42,7 +42,7 @@ render(<App />, document.getElementById('root'))
 
 > Stylesheet
 >
-> Assuming at you're using sass
+> Assuming you're using sass
 ```sass
 @import "~tpicker-react/tpicker-react.css"
 
