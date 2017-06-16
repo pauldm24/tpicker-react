@@ -60,5 +60,5 @@ Add validation on Date Range (TPickerRangeReact)
 
 
 ### Note:
-This is not a production ready package, if you want it to use, use it on your own risk.
+This is not production ready package, if you want it to use, use it on your own risk.
 
