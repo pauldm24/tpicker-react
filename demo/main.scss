@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i');
 $fa-font-path: "~font-awesome/fonts";
 @import "~font-awesome/scss/font-awesome.scss";
+@import "../build/tpicker-react.css";
 
 body {
     font-family: 'Lato', sans-serif;
