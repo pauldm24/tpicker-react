@@ -1,18 +1,18 @@
 {
   "name": "tpicker-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Time Picker React",
   "main": "build/index.js",
   "directories": {
     "src": "src/"
   },
   "author": {
-      "name": "John Paul Del Mundo",
-      "email": "jp@pauldm.com"
+    "name": "John Paul Del Mundo",
+    "email": "jp@pauldm.com"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/pauldm24/tpicker-react.git"
+    "type": "git",
+    "url": "https://github.com/pauldm24/tpicker-react.git"
   },
   "license": "MIT",
   "devDependencies": {
