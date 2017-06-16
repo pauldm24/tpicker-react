@@ -1,0 +1,58 @@
+.tpicker-wrapper {
+    display: flex;
+    margin: 0 15px;
+
+    .picker-item {
+        margin: 5px;
+
+        .picker-item-wrap {
+            display: flex;
+            flex-direction: column;
+
+            > input {
+                width: 25px;
+                font-size: 12px;
+                padding: 5px;
+                border: 1px solid #E8E8E8;
+                border-radius: 5px;
+                text-align: center;
+            }
+
+            .icon-wrap {
+                width: 25px;
+                padding: 5px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                color: #999;
+                cursor: pointer;
+
+                &.inactive {
+                    cursor: not-allowed;
+                }
+
+                &.ceil {
+                    cursor: not-allowed;
+                }
+            }
+        }
+    }
+
+    &.range {
+        > div {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 0 10px;
+
+            .title {
+                margin: 5px 0 0 0;
+            }
+
+            > div {
+                display: flex;
+            }
+        }
+    }
+}
