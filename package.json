@@ -6,7 +6,14 @@
   "directories": {
     "src": "src/"
   },
-  "author": "John Paul<john.paul@favoritemedium.com>",
+  "author": {
+      "name": "John Paul Del Mundo",
+      "email": "jp@pauldm.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/pauldm24/tpicker-react.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^6.7.7",

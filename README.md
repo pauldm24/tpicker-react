@@ -40,6 +40,24 @@ render(<App />, document.getElementById('root'))
 
 ```
 
+> Stylesheet
+>
+> Assuming at you're using sass
+```sass
+@import "~tpicker-react/tpicker-react.css"
+
+// ....
+// your current style
+// ....
+
+```
+
+> or add on your main entry file eg. `index.js`
+
+```javascript
+import 'tpicker-react/tpicker-react.css'
+```
+
 Please see demo for more detail.
 
 
