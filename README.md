@@ -1,4 +1,4 @@
-# React Custom Date Picker
+# React Custom Time Picker
 
 Project dependecies
 
